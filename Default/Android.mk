@@ -1,8 +1,8 @@
 LOCAL_PATH:= $(call my-dir)
 include $(CLEAR_VARS)
 
-LOCAL_RRO_THEME := Stock
-LOCAL_PACKAGE_NAME := Stock
+LOCAL_RRO_THEME := Default
+LOCAL_PACKAGE_NAME := Default
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res
 LOCAL_CERTIFICATE := platform
 
