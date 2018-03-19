@@ -1,8 +1,8 @@
 LOCAL_PATH:= $(call my-dir)
 include $(CLEAR_VARS)
 
-LOCAL_RRO_THEME := PixelTheme
-LOCAL_PACKAGE_NAME := PixelTheme
+LOCAL_RRO_THEME := PixelAccent
+LOCAL_PACKAGE_NAME := PixelAccent
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res
 LOCAL_CERTIFICATE := platform
 
