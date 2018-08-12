@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.google.android.theme.pixel" >
 
-    <overlay android:priority="1" android:targetPackage="android" />
+    <overlay android:category="android.theme" android:priority="1" android:targetPackage="android" />
 
     <application android:hasCode="false"
                  android:label="Pixel" />
